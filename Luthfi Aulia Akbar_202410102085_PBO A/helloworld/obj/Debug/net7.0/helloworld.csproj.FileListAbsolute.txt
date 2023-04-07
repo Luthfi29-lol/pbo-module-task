@@ -1,0 +1,15 @@
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\bin\Debug\net7.0\helloworld.exe
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\bin\Debug\net7.0\helloworld.deps.json
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\bin\Debug\net7.0\helloworld.dll
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\bin\Debug\net7.0\helloworld.pdb
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.csproj.AssemblyReference.cache
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.dll
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.pdb
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+D:\Kuliah Akbar\Semester 6\PBO\coba\helloworld\obj\Debug\net7.0\ref\helloworld.dll
